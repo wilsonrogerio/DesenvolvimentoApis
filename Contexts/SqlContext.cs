@@ -16,8 +16,8 @@ namespace Chapter_TURMA14.Contexts
             {
                 // cada provedor tem sua sintaxe para especificação
                 //optionsBuilder.UseSqlServer("Data Source = DESKTOP-3PMVSMI\\SQLEXPRESS; initial catalog = Chapter; user id = sa; password = 123");
-                optionsBuilder.UseSqlServer("Data Source = DESKTOP-OBVK7HE\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true; TrustServerCertificate=True");
-                //optionsBuilder.UseSqlServer("Data Source = DESKTOP-OBVK7HE\\SQLEXPRESS; initial catalog = Chapter; Integrated Security = true");
+                optionsBuilder.UseSqlServer("Data Source = DESKTOP-OBVK7HE; initial catalog = Chapter; Integrated Security = true; TrustServerCertificate=True");
+                //optionsBuilder.UseSqlServer("Data Source = DESKTOP-OBVK7HE; initial catalog = Chapter; Integrated Security = true");
             }
         }
         // dbset representa as entidades que serão utilizadas nas operações de leitura, criação, atualização e deleção

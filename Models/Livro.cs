@@ -6,7 +6,7 @@
 
         public string? Titulo { get; set; }
 
-        public int QuntidadePaginas { get; set; }
+        public int QuantidadePaginas { get; set; }
 
         public bool Disponivel { get; set; }
     }
