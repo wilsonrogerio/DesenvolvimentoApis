@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zxvPq7oxpcdkbJ7zLAMYBh98XMGM6oDWZ5X0H4/1ZX3ZkRH9JBZNNRa4grZoO6/t3oxPvLGMsyCupl6dQORYDg==",
+  "dgSpecHash": "mec71ixyOdPjsbiTJqWrbsk6qvtLoCGy+4RpcVW5Sj7mxyKMWk97w6KMySuwjOAkudrXQZ8kgKGtcvzcLTT4sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\william\\Documents\\Atividade\\API\\Chapter-TURMA14\\Chapter-TURMA14\\Chapter-TURMA14.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\william\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\william\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\william\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.16\\microsoft.aspnetcore.authentication.jwtbearer.6.0.16.nupkg.sha512",
     "C:\\Users\\william\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
     "C:\\Users\\william\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\william\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

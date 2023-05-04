@@ -1,5 +1,6 @@
 ﻿using Chapter_TURMA14.Models;
 using Chapter_TURMA14.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.ComponentModel;
@@ -9,6 +10,7 @@ namespace Chapter_TURMA14.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class LivroController : ControllerBase
     {
         private readonly LivroRepository? _livroRepository;
@@ -49,6 +51,7 @@ namespace Chapter_TURMA14.Controllers
                 throw new Exception(e.Message);
             }
         }
+        [Authorize(Roles ="1")]
         [HttpPost]
         public IActionResult Cadastrar(Livro l)
         {
