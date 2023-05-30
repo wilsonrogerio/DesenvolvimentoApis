@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mec71ixyOdPjsbiTJqWrbsk6qvtLoCGy+4RpcVW5Sj7mxyKMWk97w6KMySuwjOAkudrXQZ8kgKGtcvzcLTT4sw==",
+  "dgSpecHash": "d00IXRlRyZsov7sV1v5KWIupxNN5EZYE9JX9MoMcVsp8jPoxaI9v2QnXR4JbxTbs9M8RiJxyhFViSh0veooYgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\william\\Documents\\Atividade\\API\\Chapter-TURMA14\\Chapter-TURMA14\\Chapter-TURMA14.csproj",
+  "projectFilePath": "C:\\Users\\william\\Documents\\DOCUMENTOS DO GODO\\Atividade\\API\\Chapter-TURMA14\\Chapter-TURMA14\\Chapter-TURMA14.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\william\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\william\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
